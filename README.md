@@ -2,22 +2,6 @@
 
 A modern and responsive personal portfolio website built using **HTML5** and **CSS3**. This project showcases my profile, skills, education, projects, and contact information in a clean and professional design.
 
-## 🚀 Live Preview
-
-You can host this project using **GitHub Pages**, **Netlify**, or **Vercel**.
-
----
-
-## 📸 Preview
-
-> Add a screenshot of your portfolio here after uploading it.
-
-Example:
-
-```
-images/portfolio-preview.png
-```
-
 ---
 
 ## ✨ Features
